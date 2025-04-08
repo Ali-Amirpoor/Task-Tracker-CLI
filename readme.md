@@ -10,7 +10,4 @@ Task Tracker is a simple and efficient application designed to help users manage
 - Track the status of tasks (e.g., In Progress, Completed).
 - Responsive and user-friendly interface.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/task-tracker.git
+
